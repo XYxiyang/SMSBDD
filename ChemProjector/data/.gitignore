@@ -1,0 +1,16 @@
+*
+!.gitignore
+!reaction_templates_hb.txt
+!example.csv
+!synthesis_planning
+!synthesis_planning/*
+!goal_directed
+!goal_directed/*
+!sbdd
+!sbdd/*
+!sbdd/**
+!hit_expansion
+!hit_expansion/*
+!processed.key
+
+.DS_Store
